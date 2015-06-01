@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>score</key>
+		<string>5</string>
+		<key>imageName</key>
+		<string>笔</string>
+		<key>textName</key>
+		<string>圆珠笔*1</string>
+	</dict>
+	<dict>
+		<key>score</key>
+		<string>10</string>
+		<key>imageName</key>
+		<string>水杯</string>
+		<key>textName</key>
+		<string>马克水杯*1</string>
+	</dict>
+	<dict>
+		<key>score</key>
+		<string>10</string>
+		<key>imageName</key>
+		<string>衣服</string>
+		<key>textName</key>
+		<string>EV文化衫*1</string>
+	</dict>
+	<dict>
+		<key>score</key>
+		<string>20</string>
+		<key>imageName</key>
+		<string>鞋子</string>
+		<key>textName</key>
+		<string>双星运动鞋*1</string>
+	</dict>
+	<dict>
+		<key>score</key>
+		<string>20</string>
+		<key>imageName</key>
+		<string>书包</string>
+		<key>textName</key>
+		<string>儿童书包*1</string>
+	</dict>
+	<dict>
+		<key>score</key>
+		<string>25</string>
+		<key>imageName</key>
+		<string>篮球</string>
+		<key>textName</key>
+		<string>篮球*1</string>
+	</dict>
+</array>
+</plist>
