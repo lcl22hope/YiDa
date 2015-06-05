@@ -33,7 +33,7 @@
     } else {
         [[UINavigationBar appearance] setTintColor:[UIColor colorWithRed:0.071 green:0.060 blue:0.086 alpha:1.000]];
     }
-    [NSThread sleepForTimeInterval:20.0];
+//    [NSThread sleepForTimeInterval:20.0];
     
     LoginViewController *loginVC = [LoginViewController new];
     

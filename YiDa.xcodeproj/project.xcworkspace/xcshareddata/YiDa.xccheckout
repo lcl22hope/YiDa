@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D6EC78CA-8CE5-4070-BAFD-F5C99FF28C19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YiDa</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7447A07B577F494C974403F3BE700A6F86E992FE</key>
+		<string>https://github.com/lcl22hope/YiDa.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YiDa.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7447A07B577F494C974403F3BE700A6F86E992FE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lcl22hope/YiDa.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7447A07B577F494C974403F3BE700A6F86E992FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7447A07B577F494C974403F3BE700A6F86E992FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YiDa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
